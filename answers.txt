@@ -1,0 +1,174 @@
+Name: Marlon Aleman
+CS 110
+Project 1 
+
+For each problem that requires a written answer, write (or copy-and-paste)
+your answers in this file.  When you are done, you should have replaced all
+the ellipses (the three dots) with your answers.
+
+At the end, you will turn in this file along with your modified
+dna_analysis.py program.
+
+Part 1a -1c:
+
+Sample 1:
+GC-content: 0.4302926296296296
+AT-content: 0.5689938518518518
+G count: 5738773
+C count: 5879128
+A count 7701287
+T count 7661547
+Sum count: 26980735
+Total Count: 27000000
+Sequence length: 27000000
+AT/GC Ratio: 1.0 : 8.607406794049975e-08
+GC Classification: Low GC Content
+
+Sample 2
+GC-content: 0.45105133333333336
+AT-content: 0.548112925925926
+G count: 6103168
+C count: 6075218
+A count 7467696
+T count 7331353
+Sum count: 26977435
+Total Count: 27000000
+Sequence length: 27000000
+AT/GC Ratio: 1.0 : 8.211268718202888e-08
+GC Classification: Low GC Content
+
+Sample 3
+GC-content: 0.6468641125240355
+AT-content: 0.3531311560764628
+G count: 3008039
+C count: 3144239
+A count 1561973
+T count 1796632
+Sum count: 9510883
+Total Count: 9510928
+Sequence length: 9510928
+AT/GC Ratio: 1.0 : 1.6254141961725396e-07
+GC Classification: Low GC Content
+
+Sample 4
+GC-content: 0.3478523411663431
+AT-content: 0.6521429498904319
+G count: 1620779
+C count: 1851138
+A count 3304273
+T count 3204771
+Sum count: 9980961
+Total Count: 9981008
+Sequence length: 9981008
+AT/GC Ratio: 1.0 : 2.8802531857760424e-07
+GC Classification: Moderate GC Content
+
+Sample 5
+GC-content: 0.2631578947368421
+AT-content: 0.7236842105263158
+G count: 11
+C count: 9
+A count 27
+T count 28
+Sum count: 75
+Total Count: 76
+Sequence length: 76
+AT/GC Ratio: 1.0 : 0.05
+GC Classification: Moderate GC Content
+
+Sample 6
+GC-content: 0.4915185185185185
+AT-content: 0.5081111111111111
+G count: 7304
+C count: 5967
+A count 6867
+T count 6852
+Sum count: 26990
+Total Count: 27000
+Sequence length: 27000
+AT/GC Ratio: 1.0 : 7.535227187099691e-05
+GC Classification: Low GC Content
+
+
+
+Part 2a:
+
+...
+
+Part 2b:
+
+Sample 1
+Sum count: 26980735
+Total Count: 27000000
+Sequence length: 27000000
+
+Sample 2
+Sum count: 26977435
+Total Count: 27000000
+Sequence length: 27000000
+
+
+Sample 3
+T count 1796632
+Sum count: 9510883
+Total Count: 9510928
+Sequence length: 9510928
+
+Sample 4
+Sum count: 9980961
+Total Count: 9981008
+Sequence length: 9981008
+
+
+Sample 5
+Sum count: 75
+Total Count: 76
+Sequence length: 76
+
+
+Sample 6
+
+Sum count: 26990
+Total Count: 27000
+Sequence length: 27000
+
+Part 2c:
+
+Sample 1:
+AT/GC Ratio: 1.3223416174746196
+
+Sample 2
+AT/GC Ratio: 1.2151896811285174
+
+Sample 3
+AT/GC Ratio: 0.5459124246336072
+
+Sample 4
+AT/GC Ratio: 1.8747694717356433
+
+Sample 5
+AT/GC Ratio: 2.75
+
+Sample 6
+AT/GC Ratio: 1.0337578177982065
+
+
+Part 2d:
+
+Sample 1:
+GC Classification: Low GC Content
+
+Sample 2:
+GC Classification: Low GC Content
+
+Sample 3:
+GC Classification: Low GC Content
+
+Sample 4:
+GC Classification: Moderate GC Content
+
+Sample 5:
+GC Classification: Moderate GC Content
+
+Sample 6:
+GC Classification: Low GC Content
